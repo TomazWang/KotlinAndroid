@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="simple_padding_8">8dp</dimen>
+    <dimen name="simple_padding_half_4">4dp</dimen>
+</resources>

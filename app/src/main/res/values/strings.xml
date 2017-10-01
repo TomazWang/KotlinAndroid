@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hi_kotlin">Hi! Kotlin</string>
+</resources>
